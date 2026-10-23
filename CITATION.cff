@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "Please cite this dataset and the associated manuscript when using the supplementary data and code."
+type: dataset
+title: "Supplementary Data S1: Multivariate hourly weather generation using constrained analogue learning and monthly updating: Evaluation at plateau sites in China"
+authors:
+  - family-names: Wang
+    given-names: Ziyi
+    affiliation: Tianjin University
+  - family-names: Zhu
+    given-names: Jinsong
+    affiliation: Tianjin University
+version: 1.0.0
+date-released: 2026-10-23
+url: "https://github.com/six-nut/multivariate-hourly-weather-generation-data/releases/tag/v1.0.0"
+abstract: "Native NASA POWER inputs, analysis programs, fitted models, generated meteorological histories, evaluation results and figure source data accompanying the associated manuscript."
+keywords:
+  - multivariate weather generation
+  - hourly meteorological data
+  - constrained analogue learning
+  - monthly updating
+  - NASA POWER
+  - plateau environments
